@@ -48,17 +48,4 @@ static double max(double arg,double b)
         }
     }
 }
-/*int k=0,h=0;
-           bool f=false;
-           int[] a = new int[100];
-           for(int i=0;i<100;i++)
-           {   
-               if ((a[i-1]==1)||(i==0))
-               if(a[i]==1)
-                   k++;
-               else
-               {
-                   if (h < k)
-                       h = k;
-               }
-           }*/
+
